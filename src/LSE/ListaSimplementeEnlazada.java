@@ -1,7 +1,8 @@
 package LSE;
 
 public class ListaSimplementeEnlazada {
-     protected nodo primero;
+    protected nodo primero;
+
     public ListaSimplementeEnlazada(){
         primero = null;
     }
